@@ -1,0 +1,27 @@
+{
+  "name": "proyectos",
+  "version": "1.0.0",
+  "description": "\u001b[A\u001b[A\u001b[B\u001b[B\u001b[BTrabajando con Asincronismo en JavaScript",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisDavid-Morocho/git-inicio.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "Morochin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisDavid-Morocho/git-inicio/issues"
+  },
+  "homepage": "https://github.com/LuisDavid-Morocho/git-inicio#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
